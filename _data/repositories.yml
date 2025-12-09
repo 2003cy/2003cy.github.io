@@ -1,8 +1,14 @@
 github_users:
-  - 2003cy
+  - torvalds
+  - alshedivat
+
+repo_description_lines_max: 2
 
 github_repos:
-  - 2003cy/ssl_outthere
-  - 2003cy/Balmer-Decrement-JWST-Outthere
-  - 2003cy/Balmer-Decrement-CLEAR
-
+  - alshedivat/al-folio
+  - jekyll/jekyll
+  - twbs/bootstrap
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - mathjax/MathJax
+  - jpswalsh/academicons

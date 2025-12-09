@@ -2,72 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Yang Cheng
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
     - name: Languages
-      value: English, German, Mandarin
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science in Physics
-      institution: University of Heidelberg, Germany
-      year: 2021 - 2024
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-      - title: studying focus
-        contents:
-          - Theoretical statistical physics and atomic physics.
-          - Astronomy and computational physics (1.3 in german notes).
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
+      description:
+        - Description 1.
+        - Description 2.
 
-    - title: Master of Science in Physics
-      institution: University of Heidelberg, Germany
-      year: 2024 - 2027
-      description: 
-      - title: studying focus
-        contents:
-        - Astronomy and Astrophysics.
-        - Machine learning and computational physics.
-
-- title: Research Experience
+- title: Experience
   type: time_table
   contents:
-    - title: Observation and data analysis of a ground based 70cm telescope
-      institution: The state Observatory of Heidelberg-Koenigstuhl, Germany
-      year: 2022
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - In this small project, I have worked with a ground based 70cm telescope at the state Observatory in the main aim of learning the observational techniques, operational precedure of a ground based telescope, and also the data reduction and analysis of the raw data. I have successfully observed several open clusters and variable stars, and reduced the raw data to obtain calibrated photometric measurements.
-
-    - title: Trapping and cooling Rb atoms to the Doppler limit using a self built MOT trap
-      institution: Heidelberg University, Germany
-      year: 2023
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
-        - In this small project, we built a 3D Magneto-Optical Trap (MOT) from scratch and finetuned it to cool and trap Rubidium (Rb) atoms to the Doppler limit. I was majorly responsible for the optical setup and alignment of the laser beams, and gained hands-on expereience with experimental techniques in optics and atomic physics.
+        - Description 1.
+        - Description 2.
 
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
 
-    - title: Bachelor Thesis, Spatially resolved Balmer decrement of galaxies
-      institution: Max Planck Institute for Astronomy, Heidelberg, Germany
-      year: 2024-2025
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
       description:
-        - In my bachelor thesis, I have worked in the Data Science group with Dr. Ivelina Momcheva, under the formal supervision of Prof. Dr. Hans Walter Rix. I've woked with slitless spectroscopy data from archival HST grism data of the CLEAR survey and the ongoing JWST NIRISS pure parallel program Outthere. By utilizing the grism emission line maps, I have conducted a spatially resolved analysis of Balmer decrements on indivcidual galaxies, instead of the traditional stacked measurement. This work provided a better constraints on the scatter of the spatial dust attenuation witin galaxies at cosmic noon, and the correlation of dust central concentration as a function of galaxy mass.
 
-    - title: A multi-modal self-supervised learning approach to JWST imaging and spectroscopic data
-      institution: Max Planck Institute for Astronomy, Heidelberg, Germany
-      year: 2025-2026
-      description:
-        - In this ongoing project, I further extend my experience with observational data from JWST NIRISS/NIRCam, and experiment with noval machine learning technique to imaging and spectroscopic data. Instead of traditional supervised learning, we are exploring of adopting self-supervised learning (SSL) techniques to moderate sized JWST datasets, and experiments with multi-modal learning via CLIP (Contrastive Language-Image Pre-Training) - like approach to fuse imaging and spectrocopy into one shared representation. This project is aimed to provide a new way of infering physical properties of high z galaxies with high tolerance on missing data.
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2020-2025
-      items: 
-        -  Scholarship of the Disney Aspire Program
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
 
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - Guitar; I have been playing acoustic guitar for over 16 years. (ABRSM Grade 8) 
-    - Photography; I'm particularly interested in (analogue and digital) Astrophotography
-    - Travelling; I've been to over 10 countries across North America, Africa, Europe and Asia
-    - Diving; in accordance with my interest in travelling, I enjoy diving in over 5 different locations around the world. (PADI Advanced Open Water Diver)
-    
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
