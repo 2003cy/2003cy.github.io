@@ -13,19 +13,19 @@
       institution: University of Heidelberg, Germany
       year: 2021 - 2024
       description:
-      - title: studying focus
-        contents:
-          - Theoretical statistical physics and atomic physics.
-          - Astronomy and computational physics (1.3 in german notes).
+        - title: studying focus
+          contents:
+            - Theoretical statistical physics and atomic physics.
+            - Astronomy and computational physics (1.3 in german notes).
 
     - title: Master of Science in Physics
       institution: University of Heidelberg, Germany
       year: 2024 - 2027
-      description: 
-      - title: studying focus
-        contents:
-        - Astronomy and Astrophysics.
-        - Machine learning and computational physics.
+      description:
+        - title: studying focus
+          contents:
+            - Astronomy and Astrophysics.
+            - Machine learning and computational physics.
 
 - title: Research Experience
   type: time_table
@@ -41,7 +41,6 @@
       year: 2023
       description:
         - In this small project, we built a 3D Magneto-Optical Trap (MOT) from scratch and finetuned it to cool and trap Rubidium (Rb) atoms to the Doppler limit. I was majorly responsible for the optical setup and alignment of the laser beams, and gained hands-on expereience with experimental techniques in optics and atomic physics.
-
 
     - title: Bachelor Thesis, Spatially resolved Balmer decrement of galaxies
       institution: Max Planck Institute for Astronomy, Heidelberg, Germany
@@ -59,15 +58,13 @@
   type: time_table
   contents:
     - year: 2020-2025
-      items: 
-        -  Scholarship of the Disney Aspire Program
-
+      items:
+        - Scholarship of the Disney Aspire Program
 
 - title: Other Interests
   type: list
   contents:
-    - Guitar; I have been playing acoustic guitar for over 16 years. (ABRSM Grade 8) 
+    - Guitar; I have been playing acoustic guitar for over 16 years. (ABRSM Grade 8)
     - Photography; I'm particularly interested in (analogue and digital) Astrophotography
     - Travelling; I've been to over 10 countries across North America, Africa, Europe and Asia
     - Diving; in accordance with my interest in travelling, I enjoy diving in over 5 different locations around the world. (PADI Advanced Open Water Diver)
-    
