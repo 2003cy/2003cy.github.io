@@ -65,11 +65,7 @@ max_width: 930px
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
-# Social integration
-# -----------------------------------------------------------------------------
 
-github_username: 2003cy
-orcid_id: 0009-0005-5466-5977 # your ORCID ID
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
