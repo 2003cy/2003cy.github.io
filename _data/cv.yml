@@ -1,10 +1,12 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Yang Cheng
     - name: Languages
       value: English, German, Mandarin
+    - name: email
+      value: "[yacheng@mpia.de](mailto:yacheng@mpia.de)"
 
 - title: Education
   type: time_table
@@ -36,7 +38,7 @@
       description:
         - In this small project, I have worked with a ground based 70cm telescope at the state Observatory in the main aim of learning the observational techniques, operational precedure of a ground based telescope, and also the data reduction and analysis of the raw data. I have successfully observed several open clusters and variable stars, and reduced the raw data to obtain calibrated photometric measurements.
 
-    - title: Trapping and cooling Rb atoms to the Doppler limit using a self built MOT trap
+    - title: Trapping and cooling of Rb atoms to the Doppler limit using a self built MOT trap
       institution: Heidelberg University, Germany
       year: 2023
       description:

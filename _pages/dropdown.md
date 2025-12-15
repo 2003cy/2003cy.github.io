@@ -8,6 +8,7 @@ children:
   #  - title: bookshelf
   #    permalink: /books/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: divider
+    #permalink: /blog/
+  - title: divider
 ---
