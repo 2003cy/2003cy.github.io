@@ -2,15 +2,18 @@
 layout: about
 title: About Me
 permalink: /
-#subtitle: <a href=''>A</a>.
+subtitle: M.Sc. student in Physics at <a href='https://www.uni-heidelberg.de/'>Heidelberg University</a> · Data Science group at <a href='https://www.mpia.de/'>MPIA</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
+    <p>Max Planck Institute for Astronomy</p>
+    <p>Königstuhl 17</p>
+    <p>69117 Heidelberg, Germany</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -24,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm currently a graduate student at Heidelberg University, and also affiliated with Max Planck Institute for Astronomy. I currently work in MPIA Data Science group, and my current research focuses on observational galaxy evolution at high redshift and machine learning applications in astronomy, in particular with imaging and spectroscopic data from JWST and HST.
+My research focuses on galaxy evolution at high redshift. I work with JWST and HST imaging and slitless spectroscopy, and I'm interested in how machine learning, in particular self-supervised learning, can help us infer galaxy properties from these data.
+
+My master's thesis, supervised by Dr. Ivelina Momcheva and Dr. Morgan Fouesneau, develops a multi-modal model for JWST imaging and spectra. For my bachelor's thesis, I studied spatially resolved dust attenuation in galaxies at cosmic noon.

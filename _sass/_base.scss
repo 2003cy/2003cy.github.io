@@ -214,6 +214,13 @@ ul.task-list input[type="checkbox"] {
   margin-left: 1rem;
 }
 
+// crop circular profile pictures to a square so they stay round
+.profile img.rounded-circle {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center 40%;
+}
+
 .profile.float-left {
   margin-right: 1rem;
 }
