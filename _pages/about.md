@@ -27,4 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Yang! I study **high-redshift galaxy evolution** using **JWST** and **HST** imaging and grism spectroscopy, and I build **self-supervised machine learning** models to infer galaxy properties from these data.
+Hi, I'm Yang! I study **high-redshift galaxy evolution** using **JWST** and **HST** imaging and grism spectroscopy, and I build **self-supervised machine learning** models to infer galaxy properties from these data. I work with Dr. Ivelina Momcheva and Dr. Morgan Fouesneau.
+
+**Now** — a multi-modal foundation model that combines JWST imaging and low-resolution spectra to estimate galaxy properties such as stellar mass.
+
+**Before** — spatially resolved Balmer decrements of individual galaxies at 0.6 < z < 1.6, mapping how dust is distributed within galaxies at cosmic noon.
+
+Outside research, I play guitar, take (astro)photos, and dive.
