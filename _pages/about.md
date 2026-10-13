@@ -27,10 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Yang! I study **high-redshift galaxy evolution** using **JWST** and **HST** imaging and grism spectroscopy, and I build **self-supervised machine learning** models to infer galaxy properties from these data. I work with Dr. Ivelina Momcheva and Dr. Morgan Fouesneau.
+I'm a master's student in physics at Heidelberg University, working in the Data Science group at the Max Planck Institute for Astronomy with Dr. Ivelina Momcheva and Dr. Morgan Fouesneau.
 
-**Now** — a multi-modal foundation model that combines JWST imaging and low-resolution spectra to estimate galaxy properties such as stellar mass.
-
-**Before** — spatially resolved Balmer decrements of individual galaxies at 0.6 < z < 1.6, mapping how dust is distributed within galaxies at cosmic noon.
-
-Outside research, I play guitar, take (astro)photos, and dive.
+My research focuses on galaxy evolution at high redshift. I work with JWST and HST imaging and slitless spectroscopy, and I'm interested in how machine learning, in particular self-supervised learning, can help us infer galaxy properties from these data. My master's thesis develops a multi-modal model for JWST imaging and spectra; for my bachelor's thesis, I studied spatially resolved dust attenuation in galaxies at cosmic noon.
